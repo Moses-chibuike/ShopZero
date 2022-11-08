@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@sanity/client": "^3.4.1",
+    "@sanity/image-url": "^1.0.1",
+    "@stripe/stripe-js": "^1.42.1"
+  }
+}
