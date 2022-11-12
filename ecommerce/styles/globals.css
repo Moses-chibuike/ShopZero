@@ -635,6 +635,7 @@ margin-top: 160px;
     height: 560px;
     margin-top: 80px;
     display: none;
+    
   }
   .footer-banner-image{
     width: 77%;
@@ -713,7 +714,7 @@ margin-top: 160px;
     width: 150px;
   }
   .product-detail-container{
-    margin: 20px;
+    margin: auto;
   }
 
 .item-desc .flex{
