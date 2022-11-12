@@ -622,23 +622,26 @@ margin-top: 160px;
   
   .hero-banner-container{
     height: 560px;
+    
   }
   .hero-banner-image{
-    width: 50%;
-    height: 50%;
+    width: 77%;
+    height: 62%;
     top: 30%;
-    right: 5%;
-    text-align: center;
+    right: -2%;
+
   }
   .footer-banner-container{
     height: 560px;
     margin-top: 80px;
+    display: none;
   }
   .footer-banner-image{
     width: 77%;
     left: 30%;
     top: 6%;
     height: 56%
+    
   }
   .banner-desc .left h3{
     font-weight: 900;
@@ -656,6 +659,7 @@ margin-top: 160px;
   }
   .banner-desc .right .company-desc{
     font-size: 14px;
+    
   }
   .banner-desc{
     flex-wrap: wrap;
@@ -675,7 +679,7 @@ margin-top: 160px;
     z-index: 10000;
   }
   .desc{
-   bottom: 60px;
+   bottom: 20px;
   }
   .product-detail-container{
     flex-wrap: wrap;
