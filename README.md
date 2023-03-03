@@ -1,6 +1,6 @@
-ShopZero is an e-commerce website that is solely specialized in simple consumer electronics like speaker and headsets, the website is built using React and NextJs.
+ShopZero is an e-commerce website that is solely specialized in simple consumer electronics like speakers and headsets, the website is built using React and NextJs.
 
-ShopZero is a simulation of client side e-commerce website with feature as add to cart, proceed for checkout and using stripe as the payment option.
+ShopZero is a simulation of a client-side e-commerce website with the feature as add to cart, proceed for checkout, and using stripe as the payment option.
 Here's the link to the Live Demo: https://shop-zero.vercel.app/
 
 ![Screenshot (252)](https://user-images.githubusercontent.com/45429302/202669119-4b045d95-f6ac-4d25-b8ce-f79b17ee67ee.png)
